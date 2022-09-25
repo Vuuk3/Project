@@ -2,4 +2,4 @@
 
 Пишем комманду py manage.py runserver.
 
-Открываем http://localhost:8080/.
+Открываем http://localhost:8000/.
