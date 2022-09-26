@@ -2,8 +2,8 @@
 
 Откройте коммандную строку и перейдите в папку mysite в папке Project.
 
-Пишем комманду py manage.py runserver.
+Пишем комманду py manage.py runserver(для Windows) или python manage.py runserver(для Linux/macOS).
 
 Открываем http://localhost:8000/.
 
-Чтобы закрыть сервер, нажимаем сочетание клавиш ctrl + C
+Чтобы закрыть сервер, нажимаем сочетание клавиш ctrl + C.
